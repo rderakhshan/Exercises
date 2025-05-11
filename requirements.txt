@@ -3,3 +3,4 @@ openai==1.78.0
 python-dotenv==1.0.1
 pydantic==2.11.4
 pydantic-settings==2.2.1
+PyPDF2==3.0.1
